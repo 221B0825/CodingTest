@@ -1,7 +1,7 @@
 import java.io.*;
 import java.util.*;
 
-public class adjList {
+public class AdjList {
 
     static ArrayList[]adj;
     static int V;

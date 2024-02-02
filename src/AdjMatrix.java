@@ -1,10 +1,9 @@
 import java.io.BufferedReader;
 import java.io.IOException;
 import java.io.InputStreamReader;
-import java.nio.file.attribute.BasicFileAttributes;
 import java.util.StringTokenizer;
 
-public class adjMatrix {
+public class AdjMatrix {
 
     static BufferedReader br = new BufferedReader(new InputStreamReader(System.in));
     static int[][] adj;
