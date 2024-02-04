@@ -1,9 +1,16 @@
-package StringAlgorithm;
+package stringAlgorithm;
 
 import java.io.*;
 
 public class StringReverseWord {
     // baekjoon # 10988
+    // input ex)
+    // level
+    // ----------
+    // output ex)
+    // 1
+
+    // if input = apple, output = 0
 
     public static void main(String[] args) throws IOException {
         BufferedReader bf = new BufferedReader(new InputStreamReader(System.in));

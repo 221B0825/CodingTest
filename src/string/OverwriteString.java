@@ -1,7 +1,6 @@
-package String;
+package string;
 
 import java.io.*;
-import java.util.*;
 
 public class OverwriteString {
 

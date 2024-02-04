@@ -1,4 +1,4 @@
-package StringAlgorithm;
+package stringAlgorithm;
 
 import java.io.*;
 
@@ -12,7 +12,7 @@ public class BruteForceSearch {
     // hello world!
     // rld
     // ----------
-    // output ex)
+    // output ex) (return startIndex)
     // 8
 
     public static void main(String[] args) throws IOException {
