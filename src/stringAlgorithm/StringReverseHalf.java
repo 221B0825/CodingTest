@@ -4,8 +4,15 @@ import java.io.*;
 
 public class StringReverseHalf {
 
-    // input ex) level
-    // = ReverseWord.java
+    // baekjoon # 10988
+    // input ex)
+    // level
+    // ----------
+    // output ex)
+    // 1
+
+    // if input = apple, output = 0
+
     static char[] input;
     static int result = 1;
     public static void main(String[] args) throws IOException {

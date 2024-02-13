@@ -1,4 +1,4 @@
-package string;
+package stringTest;
 
 import java.io.*;
 import java.util.*;
